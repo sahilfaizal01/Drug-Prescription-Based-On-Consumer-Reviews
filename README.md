@@ -1,5 +1,7 @@
 # Drug-Prescription-Based-On-Consumer-Reviews
 The is a Natural Language Processing (NLP) project to prescribe drugs based on consumer reviews.
+![pexels-pixabay-208512](https://user-images.githubusercontent.com/106440078/199209429-2cb6d4a8-1d8a-48ac-9a11-d77aba94aa22.jpg)
+
 
 ## **Understanding Problem Statement**:-
 * Suppose there is a pharma startup that was recently acquired by one of the World's largest MNCs.
